@@ -1,7 +1,7 @@
 # Real_Estate_Housing_Prices_Predictor
 Machine Learning model to predict price of houses.
 
-Data Dictionary:
+# Data Dictionary:
 
 ID : Unique ID of House
 
@@ -44,3 +44,5 @@ Longitude
 Living Area after Renovation (in Sqft)
 
 Lot Area after Renovation (in Sqft)
+
+# Suggestions and improvements are always welcome😊.
